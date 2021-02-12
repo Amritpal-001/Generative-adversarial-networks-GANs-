@@ -20,9 +20,6 @@
 ![Art work generated](images/artwork1.1.1.png)
 
 
-![Fashion MNIST DCGANs]('MNIST and CIFAR dataset generation/Fashion MNIST DCGANs.png')
-
-
 ![Disease progression simulation using GANs](Disease_progression/Pneumonia_disease_progression/7.png
 )
 
